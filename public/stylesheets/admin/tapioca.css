@@ -1,0 +1,19 @@
+body {
+  font-family:
+}
+
+#header {
+  background-color: #94907c;
+  color: #403e36;
+}
+
+#site-subtitle {
+  color: #403e36;
+}
+
+#navigation {
+  border-bottom: 2px solid #403e36;
+}
+#navigation a {
+  color: #403e36;
+}
