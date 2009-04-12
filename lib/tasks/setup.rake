@@ -53,7 +53,6 @@ def default_extensions
     :tinymce_filter     => "git://github.com/miv/radiant_tinymce_filter.git",
     :search             => "git://github.com/radiant/radiant-search-extension.git",
     :reorder            => "git://github.com/radiant/radiant-reorder-extension.git",
-    :tags               => "git://github.com/jomz/radiant-tags-extension.git",
     :rss_reader         => "git://github.com/lorenjohnson/radiant-rss-reader.git",
     :mail_to            => "git://github.com/yoon/radiant-mail-to-extension.git"
   }
